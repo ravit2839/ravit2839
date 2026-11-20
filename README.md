@@ -1,4 +1,4 @@
-I'm a software engineer in San Jose, CA. I build warehouse automation software at Dematic and AI systems at [AI4Everyone](https://ai4everyone.dev), a startup I co-founded. Most of my code lives in AI4Everyone's private repositories, so on my graph it shows up as private contributions.
+I'm a software engineer in San Jose, CA. I build warehouse automation software at Dematic and AI systems at [AI4Everyone](https://ai4everyone.dev), a startup I co-founded. Most of that work lives in AI4Everyone's private repositories.
 
 ### Factory · private
 
